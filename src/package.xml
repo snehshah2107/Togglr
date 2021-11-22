@@ -33,7 +33,7 @@
     </types>
     <types>
         <members>FeatureToggle__mdt-en_US</members>
-        <members>OrgDefinition__mdt-en US</members>
+        <members>OrgDefinition__mdt-en_US</members>
         <name>CustomObjectTranslation</name>
     </types>
     <types>
